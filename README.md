@@ -11,3 +11,6 @@ $ node app.js
 ```
 
 ## Using
+
+- Open http://localhost:5000 (Put your server ip instans of localhost)
+- Chat and enjoy!
