@@ -10,7 +10,7 @@ A mini project for personal chat messaging in a cloud-based server.
 $ node app.js
 ```
 
-## Using
+## Using and Test
 
 - Open http://localhost:5000 (Put your server ip instans of localhost)
 - Chat and enjoy!
