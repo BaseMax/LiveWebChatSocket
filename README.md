@@ -4,7 +4,7 @@ A mini project for personal chat messaging in a cloud-based server.
 
 ![Demo - Live Web Chat Socket](screenshot1.png)
 
-## Run
+## Execute and Serve
 
 ```
 $ node app.js
